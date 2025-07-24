@@ -72,6 +72,6 @@ Somos uma equipe jovem e visionária que acredita no poder da tecnologia como mo
 
 | Projeto | Descrição |
 |--------|-----------|
-| [`Condomínio Osvaldo MJ`](https://github.com/InnovaSoft360/Kairos) | Sistema de gestão de cultos e eventos com .NET + React. |
+| [`Condomínio Osvaldo MJ (Backend)`](https://github.com/InnovaSoft360/Kairos) | API do sistema Osvaldo MJ, para gestão de candidaturas, usuários e admnistração. |
 
 ---
