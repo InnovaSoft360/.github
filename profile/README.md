@@ -73,5 +73,6 @@ Somos uma equipe jovem e visionária que acredita no poder da tecnologia como mo
 | Projeto | Descrição |
 |--------|-----------|
 | [`Condomínio Osvaldo MJ (Backend)`](https://github.com/InnovaSoft360/Kairos) | API do sistema Osvaldo MJ, para gestão de candidaturas, usuários e admnistração. |
+| [`Condomínio Osvaldo MJ (Frontend)`](https://github.com/InnovaSoft360/Kairos) | Interface web do sistema Osvaldo MJ, com páginas públicas e área administrativa. |
 
 ---
