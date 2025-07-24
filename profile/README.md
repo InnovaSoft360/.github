@@ -53,10 +53,10 @@ Somos uma equipe jovem e visionária que acredita no poder da tecnologia como mo
 |---------------------|------------------------|--------------------------------|
 | Domingos Nascimento | Fullstack Developer  | [@Adyllsxn](https://github.com/Adyllsxn) |
 | Samuel Maurio       | Backend  | [@Samuel](https://github.com/SamuelMauricio390) |
-| Timóteo dos Santos  | Backend  |---|
-| Márcio Nkrumah      | Frontend  |---|
-| Emenegildo Marques  | Fullstack Developer  |---|
-| Augusto Manuel      | Frontend   |---|
+| Timóteo dos Santos  | Backend  | [@Timóteo](https://github.com/User) |
+| Márcio Nkrumah      | Frontend  | [@Márcio](https://github.com/User) |
+| Emenegildo Marques  | Fullstack Developer  | [@Emenegildo](https://github.com/User) |
+| Augusto Manuel      | Frontend   | [@Augusto](https://github.com/User) |
 
 ---
 
