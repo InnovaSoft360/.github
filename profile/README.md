@@ -52,11 +52,11 @@ Somos uma equipe jovem e visionária que acredita no poder da tecnologia como mo
 | Nome                | Função                | GitHub                         |
 |---------------------|------------------------|--------------------------------|
 | Domingos Nascimento | Fullstack Developer    | [@Adyllsxn](https://github.com/Adyllsxn) |
-| Samuel Maurio       | ---                    | ---                            |
-| Timóteo dos Santos  | ---                    | ---                            |
-| Márcio Nkrumah      | ---                    | ---                            |
-| Emenegildo Marques  | ---                    | ---                            |
-| Augusto Manuel      | ---                    | ---                            |
+| Samuel Maurio       | Backend    | ---                            |
+| Timóteo dos Santos  | Backend | ---                            |
+| Márcio Nkrumah      | Frontend | ---                            |
+| Emenegildo Marques  | Fullstack Developer | ---                            |
+| Augusto Manuel      | Frontend  | ---                            |
 
 ---
 
