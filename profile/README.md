@@ -67,3 +67,11 @@ Somos uma equipe jovem e visionária que acredita no poder da tecnologia como mo
 🌐 [www.innovasoft360.com](https://www.innovasoft360.com)
 
 ---
+
+## 📦 Projetos em destaque
+
+| Projeto | Descrição |
+|--------|-----------|
+| [`Condomínio Osvaldo MJ`](https://github.com/InnovaSoft360/Kairos) | Sistema de gestão de cultos e eventos com .NET + React. |
+
+---
