@@ -59,6 +59,9 @@ Somos uma equipe jovem e visionária que acredita no poder da tecnologia como mo
 | Augusto Manuel      | Frontend   | [@Augusto](https://github.com/augusto447) |
 
 ---
+#
+
+
 
 
 ## 💼 Contato
@@ -69,10 +72,9 @@ Somos uma equipe jovem e visionária que acredita no poder da tecnologia como mo
 ---
 
 ## 📦 Projetos em destaque
+| Project | Description | Repository | Preview |
+|---------|-------------|------------|---------|
+| **COMJ** | Sistema de candidadura de resindências. | [![Backend](https://github.com/InnovaSoft360/comj-backend)](https://github.com/Adyllsxn/kairos-backend) [![Frontend](https://github.com/InnovaSoft360/comj-frontend)](https://github.com/Adyllsxn/kairos-frontend) | [![Preview]([https://img.shields.io/badge/Live-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kairos-topaz.vercel.app/](https://comj-frontend.vercel.app/)) |
 
-| Projeto | Descrição |
-|--------|-----------|
-| [`Condomínio Osvaldo MJ (Backend)`](https://github.com/InnovaSoft360/condominio-osvaldo-mj-backend) | API do sistema Osvaldo MJ, para gestão de candidaturas, usuários e admnistração. |
-| [`Condomínio Osvaldo MJ (Frontend)`](https://github.com/InnovaSoft360/condominio-osvaldo-mj-frontend) | Interface web do sistema Osvaldo MJ, com páginas públicas e área administrativa. |
 
 ---
