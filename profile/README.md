@@ -74,7 +74,7 @@ Somos uma equipe jovem e visionária que acredita no poder da tecnologia como mo
 ## 📦 Projetos em destaque
 | Project | Description | Repository | Preview |
 |---------|-------------|------------|---------|
-| **COMJ** | Sistema de candidadura de resindências. | [![Backend](https://github.com/InnovaSoft360/comj-backend)](https://github.com/Adyllsxn/kairos-backend) [![Frontend](https://github.com/InnovaSoft360/comj-frontend)](https://github.com/Adyllsxn/kairos-frontend) | [![Preview]([https://img.shields.io/badge/Live-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kairos-topaz.vercel.app/](https://comj-frontend.vercel.app/)) |
+| **COMJ** | Sistema de candidatura de residências. | [![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InnovaSoft360/comj-backend) [![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InnovaSoft360/comj-frontend) | [![Preview](https://img.shields.io/badge/Live-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://comj-frontend.vercel.app/) |
 
 
 ---
