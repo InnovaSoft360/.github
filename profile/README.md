@@ -55,7 +55,6 @@ Somos uma equipe jovem e visionária que acredita no poder da tecnologia como mo
 | Samuel Maurio       | Backend  | [@Samuel](https://github.com/SamuelMauricio390) |
 | Timóteo dos Santos  | Backend  | [@Timóteo](https://github.com/Timo-07Dev) |
 | Márcio Nkrumah      | Frontend  | [@Márcio](https://github.com/Nkrumah13) |
-| Emenegildo Marques  | Fullstack Developer  | [@Emenegildo](https://github.com/EmenegildoMarques0) |
 | Augusto Manuel      | Frontend   | [@Augusto](https://github.com/augusto447) |
 
 ---
