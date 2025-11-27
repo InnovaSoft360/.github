@@ -1,99 +1,76 @@
-# 💫 InnovaSoft360
+# <img src="https://img.shields.io/badge/YETUSOFT-000000?style=for-the-badge&logo=atom&logoColor=white" alt="YetuSoft" />
 
-> **Inovação em 360° | Tecnologia com Propósito**
+> **Tecnologia é Coisa Nossa** 🇦🇴
 
-🚀 Fundada em **15 de janeiro de 2025**, a **InnovaSoft360** é uma startup angolana de tecnologia com uma missão clara: revolucionar o cenário digital através de soluções inteligentes, acessíveis e transformadoras.
-
-Nossa visão é ser referência em desenvolvimento de software em Angola, criando experiências digitais que potencializam negócios, simplificam processos e criam impacto social positivo.
-
----
-
-## 🌟 Nosso Diferencial
-
-### 🔄 Abordagem 360°
-Desenvolvemos soluções completas que cobrem todas as necessidades do seu negócio - do planejamento à entrega final.
-
-### 🎯 Foco em Resultados
-Cada linha de código é escrita com um objetivo: gerar valor real e mensurável para nossos clientes.
-
-### 🔧 Tecnologia de Ponta
-Utilizamos as ferramentas mais modernas e eficientes do mercado para garantir performance e escalabilidade.
+🚀 **YetuSoft** - Uma Software House angolana que nasceu para fazer diferente.  
+Fundada em **2025**, nossa missão é criar **soluções digitais que resolvem problemas reais** com tecnologia de ponta, design intuitivo e um toque de inovação que só quem conhece o chão da África consegue entregar.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 💡 **O Que Fazemos**
+
+Transformamos ideias em produtos digitais robustos, escaláveis e feitos para durar.
+
+### 🛠️ **Desenvolvimento Sob Medida**
+- **Sistemas Web & Mobile**
+- **APIs RESTful e Microsserviços**
+- **Plataformas de Gestão Empresarial (ERP/CRM)**
+- **Aplicações Escaláveis em Cloud**
+
+### 🎨 **Experiência do Utilizador**
+- **Design Thinking & Prototipagem**
+- **Interfaces Intuitivas e Acessíveis**
+- **Product Discovery & Validação**
+
+### ⚙️ **Tecnologias que Dominamos**
 
 <div align="center">
 
-| Frontend | Backend | DevOps & Databases | Design |
-|----------|---------|-------------------|---------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| Frontend & Mobile | Backend & Cloud | DevOps & Data |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 
 </div>
 
 ---
 
-## 🚀 Áreas de Atuação
-
-### 💼 **Sistemas Corporativos**
-- ERPs personalizados
-- Sistemas de gestão empresarial
-- Automação de processos
-
-### 🎓 **Soluções Educacionais**
-- Plataformas EAD
-- Sistemas de gestão acadêmica
-- Aplicações educativas interativas
-
-### 📱 **Desenvolvimento Mobile & Web**
-- Aplicações nativas e híbridas
-- PWAs (Progressive Web Apps)
-- Landing pages high-performance
-
-### 🤖 **Inovação & IA**
-- Automação inteligente
-- Soluções com machine learning
-- Processamento de dados em tempo real
-
----
-
-## 👥 Dream Team
+## 👥 **Time YetuSoft**
 
 <div align="center">
 
-| **Desenvolvimento Fullstack** | **Backend Specialist** | **Frontend Architect** | **Design UI/UX** | **Frontend Engineer** |
-|------------------------------|----------------------|----------------------|-----------------|---------------------|
-| **Domingos Nascimento**<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Adyllsxn) | **Samuel Maurio**<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SamuelMauricio390) | **Augusto Manuel**<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/augusto447) | **Márcio Nkrumah**<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nkrumah13) | **Timóteo**<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Timo-07Dev) |
+| **Domínio Técnico** | **Especialidade** | **GitHub** |
+| :--- | :--- | :--- |
+| **Domingos Nascimento** | Fullstack Developer | [![GitHub](https://img.shields.io/badge/-@Adyllsxn-181717?style=flat&logo=github&logoColor=white)](https://github.com/Adyllsxn) |
+| **Samuel Maurio** | Backend Engineer | [![GitHub](https://img.shields.io/badge/-@SamuelMauricio390-181717?style=flat&logo=github&logoColor=white)](https://github.com/SamuelMauricio390) |
+| **Augusto Manuel** | Frontend Specialist | [![GitHub](https://img.shields.io/badge/-@augusto447-181717?style=flat&logo=github&logoColor=white)](https://github.com/augusto447) |
+| **Márcio Nkrumah** | UI/UX Designer | [![GitHub](https://img.shields.io/badge/-@Nkrumah13-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nkrumah13) |
 
 </div>
 
 ---
 
-## 📈 Projeto em Destaque
+## 🌟 **Destaque do Portfólio**
 
-### 🏠 **COMJ - Sistema de Candidatura de Residências**
+### 🏠 **Sistema de Candidatura de Residências**
+Plataforma completa para gestão de candidaturas a residências universitárias.
 
-Uma plataforma moderna e eficiente para gestão de candidaturas a residências universitárias.
-
-**🔗 Links do Projeto:**
-- **[Backend](https://github.com/InnovaSoft360/comj-backend)** • **[Frontend](https://github.com/InnovaSoft360/comj-frontend)**
-- **[Demo Ao Vivo](https://comj-frontend.vercel.app/)**
-
----
-
-## 📞 Vamos Conversar?
-
-Tem um projeto em mente? Quer modernizar sua empresa? Vamos criar algo incrível juntos!
-
-**📧 Email:** contato@innovasoft360.com  
-**🌐 Website:** [www.innovasoft360.com](https://www.innovasoft360.com)
+**Tecnologias:** `.NET 8` `React` `PostgreSQL` `Docker`  
+**Repositórios:** [Backend](https://github.com/YetuSoft/comj-backend) • [Frontend](https://github.com/YetuSoft/comj-frontend)  
+**Demo:** [Acessar Plataforma](https://comj-frontend.vercel.app/)
 
 ---
 
 <div align="center">
 
-**💡 Tecnologia que transforma. Inovação que inspira.**
+### **💬 Próxima Ideia?**  
+*Vamos conversar e construir juntos!*
 
-*InnovaSoft360 - Construindo o futuro digital de Angola*
+**📧 yetusoft@outlook.com**  
+**🌐 [yetusoft.com](https://yetusoft.com)**
+
+---
+
+*“Yetu” significa **Nosso** em Umbundu.  
+E esse é o nosso jeito de fazer tecnologia: **compartilhado, colaborativo e angolano.***
 
 </div>
