@@ -49,26 +49,6 @@ Transformamos ideias em produtos digitais robustos, escaláveis e feitos para du
 
 ---
 
-## 🌟 **Destaque do Portfólio**
-
-### 🏠 **Sistema de Candidatura de Residências**
-Plataforma completa para gestão de candidaturas a residências universitárias.
-
-**Tecnologias:** `.NET 8` `React` `PostgreSQL` `Docker`  
-**Repositórios:** [Backend](https://github.com/YetuSoft/comj-backend) • [Frontend](https://github.com/YetuSoft/comj-frontend)  
-**Demo:** [Acessar Plataforma](https://comj-frontend.vercel.app/)
-
----
-
-<div align="center">
-
-### **💬 Próxima Ideia?**  
-*Vamos conversar e construir juntos!*
-
-**📧 yetusoft@outlook.com**  
-**🌐 [yetusoft.com](https://yetusoft.com)**
-
----
 
 *“Yetu” significa **Nosso** em Umbundu.  
 E esse é o nosso jeito de fazer tecnologia: **compartilhado, colaborativo e angolano.***
